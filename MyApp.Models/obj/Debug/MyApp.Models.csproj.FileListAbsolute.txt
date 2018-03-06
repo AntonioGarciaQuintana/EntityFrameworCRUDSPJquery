@@ -1,0 +1,5 @@
+c:\users\antonio\documents\visual studio 2015\Projects\EntityFrameworkWebMethod\MyApp.Models\bin\Debug\MyApp.Models.dll
+c:\users\antonio\documents\visual studio 2015\Projects\EntityFrameworkWebMethod\MyApp.Models\bin\Debug\MyApp.Models.pdb
+c:\users\antonio\documents\visual studio 2015\Projects\EntityFrameworkWebMethod\MyApp.Models\obj\Debug\MyApp.Models.csprojResolveAssemblyReference.cache
+c:\users\antonio\documents\visual studio 2015\Projects\EntityFrameworkWebMethod\MyApp.Models\obj\Debug\MyApp.Models.dll
+c:\users\antonio\documents\visual studio 2015\Projects\EntityFrameworkWebMethod\MyApp.Models\obj\Debug\MyApp.Models.pdb
